@@ -28,6 +28,16 @@ This taught me to use:
 2. UPDATE
 3. DELETE FROM 
 
+## Refining
+This taught me to use:
+1. DISTINCT
+2. ORDER BY
+3. LIMIT
+4. WHERE
+5. LIKE
+
+
+
 ## Appendix 
 
 [Markdown Cheat Sheet](https://www.markdownguide.org/cheat-sheet/)
