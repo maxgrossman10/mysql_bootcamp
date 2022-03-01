@@ -36,6 +36,7 @@ This taught me to use:
 4. WHERE
 5. LIKE
 
+## Aggreate Data
 
 
 ## Appendix 
